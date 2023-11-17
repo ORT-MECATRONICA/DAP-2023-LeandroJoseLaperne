@@ -1,6 +1,6 @@
 LINK A VIDEO DE 2:30 MINUTOS DONDE SE PRUEBAN TODAS LAS FUNCIONALIDADES (no podia grabar pantalla):
 
-https://drive.google.com/file/d/1QLL52pQDcm3hcCiExxJaPfp95eXaYzkL/view?usp=drive_link
+https://drive.google.com/file/d/1U5ksY8EDSP8VkkyBTOCofjghHYHnzg6G/view?usp=sharing
 
 
 TAREAS REALIZADAS DENTRO DE LA APP:
@@ -14,5 +14,5 @@ TAREAS REALIZADAS DENTRO DE LA APP:
 
 Extras:
 
-(NO REALIZADO) Dialogs antes de borrar elemento
+(REALIZADO) Dialogs antes de borrar elemento
 (REALIZADO) Progress bar para esperar carga de listado y logueo del usuario.
