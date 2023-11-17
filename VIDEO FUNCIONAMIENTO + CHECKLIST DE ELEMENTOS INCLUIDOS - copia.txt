@@ -1,0 +1,18 @@
+LINK A VIDEO DE 2:30 MINUTOS DONDE SE PRUEBAN TODAS LAS FUNCIONALIDADES (no podia grabar pantalla):
+
+https://drive.google.com/file/d/1QLL52pQDcm3hcCiExxJaPfp95eXaYzkL/view?usp=drive_link
+
+
+TAREAS REALIZADAS DENTRO DE LA APP:
+
+
+(REALIZADO) Login (utilizar  Firestore)
+(REALIZADO) Registro de usuarios (opcional)
+(REALIZADO) Pantalla principal con un recycler view de un objeto a elección (utilizar Firestore como base de datos en la nube)
+(REALIZADO) Pantalla para agregar nuevos elementos a la lista (deberán subirse a la base de datos)
+(REALIZADO) Pantalla de detalle del elemento: contendrá información extra del elemento seleccionado y permitirá borrar y editar dicho elemento.
+
+Extras:
+
+(NO REALIZADO) Dialogs antes de borrar elemento
+(REALIZADO) Progress bar para esperar carga de listado y logueo del usuario.
